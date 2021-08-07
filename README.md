@@ -1,6 +1,6 @@
 # Recriando a página inicial do Instagram
 
-![](C:\Users\ruben\Cursos\DIO\04-RECRIANDO A PÁGINA INICIAL DO INSTAGRAM\instagram-dio\img\recriando-instagram.png)
+![](https://github.com/RubensDuprat/instagram-pagina-inicial/tree/master/img/recriando-instagram.png)
 
 Este projeto foi desenvolvido para o bootcamp HTML Web Developer da plataforma Digital Innovation One. A proposta era recriar a interface de login do Instagram fazendo uso da metodologia Flexbox.
 
